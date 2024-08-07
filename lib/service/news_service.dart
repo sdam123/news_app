@@ -3,6 +3,7 @@ import 'package:news_app/models/artical_model.dart';
 
 class NewsService {
   final Dio dio;
+  //sdam
 
   const NewsService({required this.dio});
 
